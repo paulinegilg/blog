@@ -1,36 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
 /* Defaults */
 :root {
-  --font-family: -apple-system, system-ui, sans-serif;
+  --font-family: 'Ubuntu', sans-serif;
   --font-family-monospace: Consolas, Menlo, Monaco, Andale Mono WT, Andale Mono, Lucida Console, Lucida Sans Typewriter, DejaVu Sans Mono, Bitstream Vera Sans Mono, Liberation Mono, Nimbus Mono L, Courier New, Courier, monospace;
 }
 
 /* Theme colors */
 :root {
-  --color-gray-20: #e0e0e0;
-  --color-gray-50: #C0C0C0;
-  --color-gray-90: #333;
+  --grey: #1e1d2d;
+  --accent: #d285de;
+  --white: #fff;
 
-  --background-color: #fff;
+  --background-color: #0e0a17;
 
-  --text-color: var(--color-gray-90);
-  --text-color-link: #082840;
-  --text-color-link-visited: #17050F;
+  --text-color: var(--white);
+  --text-color-link: var(--accent);
+  --text-color-link-visited: #5d1465;
 }
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --color-gray-20: #e0e0e0;
-    --color-gray-50: #C0C0C0;
-    --color-gray-90: #dad8d8;
-
-    /* --text-color is assigned to --color-gray-_ above */
-    --text-color-link: #1493fb;
-    --text-color-link-visited: #a6a6f8;
-
-    --background-color: #15202b;
-  }
-}
-
 
 /* Global stylesheet */
 * {
@@ -44,6 +31,12 @@ body {
   font-family: var(--font-family);
   color: var(--text-color);
   background-color: var(--background-color);
+}
+
+h1 {
+  color: var(--accent);
+  text-align: center;
+  font-size: 3em;
 }
 
 p:last-child {
@@ -68,12 +61,14 @@ a[href]:visited {
 
 main {
   padding: 1rem;
+  max-width: 37.5em;
+  margin: auto;
 }
 main :first-child {
   margin-top: 0;
 }
 header {
-  border-bottom: 1px dashed var(--color-gray-20);
+  border-bottom: 1px solid var(--grey);
 }
 header:after {
   content: "";
@@ -141,9 +136,11 @@ code {
 .nav-item a[href]:not(:hover) {
   text-decoration: none;
 }
+.nav-item a[href]:visited {
+  color: var(--accent)
+}
 .nav-item-active {
   font-weight: 700;
-  text-decoration: underline;
 }
 
 /* Posts list */
@@ -158,23 +155,14 @@ code {
   counter-increment: start-from -1;
   line-height: 1.8;
 }
-.postlist-item:before {
-  display: inline-block;
-  pointer-events: none;
-  content: "" counter(start-from, decimal-leading-zero) ". ";
-  line-height: 100%;
-  text-align: right;
-}
-.postlist-date,
-.postlist-item:before {
+.postlist-date {
   font-size: 0.8125em; /* 13px /16 */
-  color: var(--color-gray-90);
+  color: var(--white);
 }
 .postlist-date {
   word-spacing: -0.5px;
 }
 .postlist-link {
-  padding-left: .25em;
   padding-right: .25em;
   text-underline-position: from-font;
   text-underline-offset: 0;
@@ -200,8 +188,8 @@ code {
   margin-left: 0.6666666666667em; /* 8px /12 */
   margin-top: 0.5em; /* 6px /12 */
   margin-bottom: 0.5em; /* 6px /12 */
-  color: var(--color-gray-90);
-  border: 1px solid var(--color-gray-50);
+  color: var(--white);
+  border: 1px solid var(--accent);
   border-radius: 0.25em; /* 3px /12 */
   text-decoration: none;
   line-height: 1.8;
@@ -212,7 +200,7 @@ a[href].post-tag:visited {
 }
 a[href].post-tag:hover,
 a[href].post-tag:focus {
-  background-color: var(--color-gray-20);
+  background-color: var(--grey);
 }
 .postlist-item > .post-tag {
   align-self: center;
@@ -230,7 +218,7 @@ a[href].post-tag:focus {
 
 .infobox {
   background-color: var(--color-infobox);
-  color: var(--color-gray-90);
+  color: var(--white);
   padding: 1em 0.625em; /* 16px 10px /16 */
 }
 .infobox ol:only-child {
