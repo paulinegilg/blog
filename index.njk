@@ -5,7 +5,9 @@ eleventyNavigation:
   order: 1
 ---
 {% set maxPosts = collections.posts.length | min(3) %}
-<h1>{{ metadata.title }}</h1>
+  <section class="site-logo">
+    <img src="/img/logo.png" alt="Le journal de Luma"/>
+  </section>
 
 {% set postslist = collections.posts | head(-3) %}
 {% set postslistCounter = collections.posts | length %}
