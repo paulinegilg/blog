@@ -57,6 +57,8 @@ Voilà un projet que j'avais en tête depuis un moment. Noël était une occasio
 Contrairement aux pendentifs, la réalisation était beaucoup plus simple et le matériel peu onéreux. Je me suis quand même fait plaisir avec du beau papier acheté dans une boutique japonaise.
 Il ne restait plus que quelques perles en bois et du fil.
 
+![Une guirlande faite d'origamis de grues accrochée à un mur](/img/guirlande-origami.jpg)
+
 J'en ai réalisé 3 en tout, dont une pour moi (eh oui, encore... j'aime bien faire le cobaye avant d'offrir). Chacune m'a pris environ 1h30 en comptant le pliage des grues et l'assemblage.
 
 C'était un projet très sympa, parfait pour un cadeau de Noël. C'est décoratif et facilement personnalisable avec les couleurs et les motifs du papier.
@@ -70,13 +72,13 @@ Ils sont vendus généralement sur les marchés de Noël et dans les boulangerie
 
 Mis à part les ingrédients et l'emporte-pièce, je n'ai rien eu à acheter en plus.
 Avec la [recette](https://www.bredele.fr/pains-d-epices-labkueche) que j'ai suivie, j'ai pu en faire plus d'une vingtaine !
-Je les ai ensuite décorés avec des stickers. Une bonne occasion pour vider mes tiroirs de papeterie !
+Je les ai ensuite décorés avec des stickers. Une bonne occasion pour vider mes tiroirs de papeterie.
 
 ## En conclusion...
 
-J'avais un peu peur de la réaction de certains membres de ma famille habitués aux "vrais cadeaux" mais, au contraire, ils ont tous été très positifs et étonné de ce qu'il est possible de faire soi-même.
+J'avais un peu peur de la réaction de certains membres de ma famille habitués aux "vrais cadeaux" mais, au contraire, ils ont tous été très positifs et étonnés de ce qu'il est possible de faire soi-même.
 
-Seul bémol de mon côté, le manque de temps. Même en ayant commencé à "produire" dès mi-novembre, c'était le rush vers la fin décembre.
+Seul bémol de mon côté, le manque de temps. Même en ayant commencé à "produire" dès la mi-novembre, c'était le rush vers la fin décembre.
 Tout dépend des projets qu'on souhaite réaliser, mais je dirais qu'il faut s'y mettre au plus tard début novembre, et bien planifier pour éviter le stress, et donc de potentiels ratés.
 L'idéal serait même de faire des essais avant et de prévoir des plans B au cas où.
 
