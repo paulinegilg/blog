@@ -14,7 +14,7 @@ J'ai horreur de perdre du temps et de l'énergie à me presser dans les magasins
 
 Bon, j'avoue que je dresse un tableau assez sombre des achats de Noël... Mais ces dernières années, c'est souvent cela que j'ai vécu.
 
-Pour passer un meilleur mois décembre et un meilleur Noël, j'ai donc décidé que cette année serait la bonne, celle où j'allais essayer de tout faire moi-même, ou presque !
+Pour passer un meilleur mois de décembre et un meilleur Noël, j'ai donc décidé que cette année serait la bonne, celle où j'allais essayer de tout faire moi-même, ou presque !
 
 Je me suis mise à réfléchir aux détails vers la fin du mois d'octobre, à commencer par les cadeaux.
 J'ai cherché des idées dans des projets que j'avais envie de faire depuis longtemps, ou sur Mastodon où la communauté des créatifs est très développée.
