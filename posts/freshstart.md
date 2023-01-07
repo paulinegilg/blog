@@ -1,6 +1,6 @@
 ---
 title: Je relance enfin mon blog
-description:
+description: Un nouveau départ dans le monde enchanté des blogs.
 date: 2022-12-18
 tags:
   - dev
