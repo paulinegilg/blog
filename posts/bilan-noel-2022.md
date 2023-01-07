@@ -2,7 +2,6 @@
 title: Un Noël fait main
 description: Bilan de mon premier Noël presque entièrement fait main.
 date: 2022-12-31
-image: babouche-devant-sapin.jpg
 tags:
 - créations
 layout: layouts/post.njk
@@ -12,7 +11,7 @@ Faire ses cadeaux de Noël soi-même permet de réduire les frais bien sûr (mê
 
 J'ai horreur de perdre du temps et de l'énergie à me presser dans les magasins bondés, tout ça pour acheter des objets dont les personnes qui les recevront ne sauront pas quoi faire.
 
-Bon, j'avoue que je dresse un tableau assez sombre des achats de Noël... Mais ces dernières années, c'est souvent cela que j'ai vécu.
+Bon, j'avoue que je dresse un tableau assez sombre des achats de Noël... Mais ces dernières années, c'est souvent ce que j'ai vécu.
 
 Pour passer un meilleur mois de décembre et un meilleur Noël, j'ai donc décidé que cette année serait la bonne, celle où j'allais essayer de tout faire moi-même, ou presque !
 
