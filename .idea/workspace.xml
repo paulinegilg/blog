@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca8c2dbb-2521-42ba-a6c3-54264c5b6a20" name="Changes" comment="" />
+    <list default="true" id="ca8c2dbb-2521-42ba-a6c3-54264c5b6a20" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/posts/j-installe-linux-ca-tourne-bien.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,7 +48,7 @@
       <option name="presentableId" value="Default" />
       <updated>1673042969059</updated>
       <workItem from="1673042970985" duration="691000" />
-      <workItem from="1673086107912" duration="2386000" />
+      <workItem from="1673086107912" duration="5748000" />
     </task>
     <servers />
   </component>
