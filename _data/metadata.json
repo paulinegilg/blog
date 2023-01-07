@@ -1,21 +1,21 @@
 {
   "title": "Le journal de Luma",
-  "url": "https://blog.chez/",
+  "url": "https://blog.chezluma.fr/",
   "language": "fr",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "description": "Mon journal où je blablate sur mes découvertes et mes créations du moment.",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "Mon journal où je blablate sur mes découvertes et mes créations du moment.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://example.com/"
+    "id": "https://blog.chezluma.fr"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
-    "url": "https://example.com/feed/feed.json"
+    "url": "https://blog.chezluma.fr/feed/feed.json"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com",
-    "url": "https://example.com/about-me/"
+    "name": "Luma",
+    "email": "paulinegilg@protonmail.com",
+    "url": "https://blog.chezluma.fr/about/"
   }
 }
