@@ -2,7 +2,6 @@
 title: Un Noël fait main
 description: Bilan de mon premier Noël presque entièrement fait main.
 date: 2022-12-31
-image: babouche-devant-sapin.jpg
 tags:
 - créations
 layout: layouts/post.njk
