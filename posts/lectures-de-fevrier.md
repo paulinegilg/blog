@@ -4,7 +4,7 @@ description: Un mois court mais intense, placé sous le signe de la découverte 
 date: 2023-03-12
 tags:
 - lecture
-  layout: layouts/post.njk
+layout: layouts/post.njk
 ---
 
 Me voici de retour – non pas pour jouer un mauvais tour mais – pour faire un bilan rapide de mes lectures de février.
